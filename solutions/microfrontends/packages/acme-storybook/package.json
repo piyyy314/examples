@@ -28,6 +28,7 @@
     "eslint": "^8.38.0",
     "eslint-config-acme": "workspace:*",
     "eslint-plugin-storybook": "^0.6.11",
+    "next": "^16.2.9",
     "postcss": "^8.4.23",
     "serve": "^14.2.0",
     "storybook": "^7.0.6",
