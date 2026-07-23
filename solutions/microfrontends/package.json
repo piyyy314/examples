@@ -31,5 +31,10 @@
   "engines": {
     "node": "22.x",
     "pnpm": "9.4.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "next": "^16.2.9"
+    }
   }
 }
